@@ -1,0 +1,61 @@
+{
+  "id": "1e572214-b15e-42c8-aaa4-82e4338e44c8",
+  "name": "FindPharmacyIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "72d76e99-19f2-4f74-a291-0419e5b3ad21",
+          "name": "MedicationVernacular",
+          "required": false,
+          "dataType": "@MedicationVernacular",
+          "value": "$MedicationVernacular",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "413c26be-b897-43f9-9885-25d11a6fafbf",
+          "name": "geo-city-us",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$geo-city-us",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

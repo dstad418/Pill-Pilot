@@ -1,0 +1,570 @@
+[
+  {
+    "id": "f09b162c-a95f-43a9-b09f-4c2f09a608b0",
+    "data": [
+      {
+        "text": "Who is the prescribing doctor whose name appears on this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication\u0027s",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " label?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05a10fa6-94d0-4be6-abe1-6214ce381e36",
+    "data": [
+      {
+        "text": "Could you tell me the name of the doctor who authorized this specific ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4dc28b7-1f00-4864-8d33-84e8d736fa14",
+    "data": [
+      {
+        "text": "Which physician\u0027s name is listed on the prescription for this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "788d7d67-673f-4fd9-8dcd-aabdf20490d8",
+    "data": [
+      {
+        "text": "Can you share the name of the doctor who treated you and prescribed this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ef5f4d1-1ea0-4bc3-9bc5-a3090eeb5c96",
+    "data": [
+      {
+        "text": "Which healthcare professional was involved in prescribing this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeeb8d0a-aa8a-4ede-a15f-027fe61ec912",
+    "data": [
+      {
+        "text": "Who is the doctor you consulted before obtaining this ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e14e3cd6-7ea7-4314-ad1f-c4e761d4b6b8",
+    "data": [
+      {
+        "text": "Which physician did you see when you were prescribed this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2697aab3-e384-4991-9663-ca1fb8fcb6b0",
+    "data": [
+      {
+        "text": "I\u0027m interested in knowing the name of the doctor who gave you this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": ". Could you share it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51ec73a7-5234-4935-9688-80596d4da226",
+    "data": [
+      {
+        "text": "I\u0027d like to know the name of the doctor who authorized this ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": ". Could you inform me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68a652b8-c2bf-4d79-87b4-77503c105840",
+    "data": [
+      {
+        "text": "Who is the healthcare professional that prescribed this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " to me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "713a363a-5f00-40de-b6ac-f0f23e8249c3",
+    "data": [
+      {
+        "text": "Can you share the name of the doctor who recommended this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " for my condition?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65a48f77-6e98-4e06-b250-e1f9083ee461",
+    "data": [
+      {
+        "text": "I\u0027m curious about the physician who prescribed this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": ". Could you provide their name?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17f1f61-1c0a-4fcc-af85-e82c0e4345ec",
+    "data": [
+      {
+        "text": "Which doctor was responsible for prescribing this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d250c05-7fbf-414f-b3aa-f91d00472c70",
+    "data": [
+      {
+        "text": "Could you tell me the name of the doctor who prescribed this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5e025fc-a954-4e4d-9e7b-f55722a57a3d",
+    "data": [
+      {
+        "text": "Which doctor prescribed me ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d02a5c7-0ed4-4b60-81c8-308fbd58c806",
+    "data": [
+      {
+        "text": "Which prescriber prescribed me this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2b50cfe-251e-4eb1-aa36-b01cc5387c0e",
+    "data": [
+      {
+        "text": "Which prescriber gave me ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83628569-110f-46c9-ad4c-a993c53b6cb9",
+    "data": [
+      {
+        "text": "Who is my prescribing physician for ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a42e607a-c4a1-43d2-b255-9bd985b0cd11",
+    "data": [
+      {
+        "text": "Which doctor prescribed ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1c6b685-0e07-40d4-9b51-b09fb8c0a63e",
+    "data": [
+      {
+        "text": "Which doctor gave me the ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "776ec104-b17c-4221-9137-1e676efea69d",
+    "data": [
+      {
+        "text": "Which doctor prescribed me the ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ba18d73-2887-4009-afb9-a7595fe43622",
+    "data": [
+      {
+        "text": "Who is the prescribing doctor for my ",
+        "userDefined": false
+      },
+      {
+        "text": "this",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2225658c-81ad-4472-9c9b-0f764f4ea57e",
+    "data": [
+      {
+        "text": "Who is my doctor for this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "278e3b57-a18a-407b-8044-b21229019cf3",
+    "data": [
+      {
+        "text": "Who gave me this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc60d03f-be7f-4b1e-ab6b-aaec516ba3b0",
+    "data": [
+      {
+        "text": "Who prescribed me these ",
+        "userDefined": false
+      },
+      {
+        "text": "meds",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7a0ee45-4fda-4712-b565-4cbe3f89e886",
+    "data": [
+      {
+        "text": "Who prescribed me this ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

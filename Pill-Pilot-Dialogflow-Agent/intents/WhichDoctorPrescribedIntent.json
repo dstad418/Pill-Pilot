@@ -1,0 +1,70 @@
+{
+  "id": "bb8ff3a3-cdc7-48a1-a4f9-c5413fa5b251",
+  "name": "WhichDoctorPrescribedIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c41ef5fe-dc5c-4016-a281-0b0479d605a4",
+          "name": "MedicationVernacular",
+          "required": false,
+          "dataType": "@MedicationVernacular",
+          "value": "$MedicationVernacular",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c62db97f-0ff7-4794-8449-213363089038",
+          "name": "MedicationName",
+          "required": true,
+          "dataType": "@MedicationName",
+          "value": "$MedicationName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To best assist you, i\u0027ll need the name of your medication. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what\u0027s the name of the medication i\u0027m looking up?"
+            },
+            {
+              "lang": "en",
+              "value": "Of course, but first i\u0027ll need that medication name. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "I can do that. What is the medication name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

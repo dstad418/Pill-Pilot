@@ -1,0 +1,640 @@
+[
+  {
+    "id": "88588798-3daf-4718-86db-18545723c716",
+    "data": [
+      {
+        "text": "When can I get a new supply of my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13fc2ceb-6afc-42ea-b1d6-586b70ded1f5",
+    "data": [
+      {
+        "text": "I need to know when my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " is due for a refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ac26076-0718-4fe0-975d-88528d5782c8",
+    "data": [
+      {
+        "text": "Can you tell me the refill date for my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74604f80-4753-405d-aee7-acdc8dd17223",
+    "data": [
+      {
+        "text": "When is my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " eligible to be refilled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bec9f46c-5822-4793-a44b-d9070189985b",
+    "data": [
+      {
+        "text": "I\u0027m wondering when my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " will be ready for a refill.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9b1b55c-ba46-4e5e-b9fe-f5dd4be4071d",
+    "data": [
+      {
+        "text": "Please let me know when I can fill my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " again.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "834827a3-8b3b-4985-937c-736d2b9ae27e",
+    "data": [
+      {
+        "text": "When can I renew my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " and get it refilled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e5b3464-4b8f-4fd1-98e9-d11c389e2e37",
+    "data": [
+      {
+        "text": "Could you provide me with the date for the next ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7570e031-5000-4a2c-bc9d-6aa72b52d625",
+    "data": [
+      {
+        "text": "When will my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " be available for a refill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cee6794c-88f4-421d-8999-b73c245648b5",
+    "data": [
+      {
+        "text": "I\u0027d like to know when I can get a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "484f0259-2582-4a2e-8792-245e5c817090",
+    "data": [
+      {
+        "text": "Can you tell me the date when I can refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2307d945-2da6-40a3-abaf-ec3ee55c9da9",
+    "data": [
+      {
+        "text": "When is my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " eligible for a refill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4a85296-6553-4b9c-a7a1-f617e8afa12b",
+    "data": [
+      {
+        "text": "When can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86100455-6011-4d49-b16c-e0e66992ee49",
+    "data": [
+      {
+        "text": "When can I pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52b77eb5-67a1-406b-851e-f202e236750a",
+    "data": [
+      {
+        "text": "When will my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " be ready",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ded32b8-c58f-4754-980f-672f0980af7c",
+    "data": [
+      {
+        "text": "When is the next time I can refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be5f8cf7-cfa4-482a-af70-864a9b614399",
+    "data": [
+      {
+        "text": "How soon can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ccf152-7317-46c8-84b9-0e597d140565",
+    "data": [
+      {
+        "text": "How often can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79e9fa00-caf6-4a23-bc38-0a4d6dd4d1b5",
+    "data": [
+      {
+        "text": "Is my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " available for a refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "266465e7-0678-4006-82e4-0c75b8054501",
+    "data": [
+      {
+        "text": "When can I get a refill on my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faadbbf7-dbdf-475e-8630-abd4f004ec2c",
+    "data": [
+      {
+        "text": "When will my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " be available for refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "176eb367-b499-4562-a559-14da366c33e4",
+    "data": [
+      {
+        "text": "When can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " at my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c880a8e9-0f44-4e37-9f30-ce4a5f1fe5f9",
+    "data": [
+      {
+        "text": "When is the next time I can refill ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44159bd3-97ca-4ec6-a7ba-188a899f1c57",
+    "data": [
+      {
+        "text": "When can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d3a4b48-ca58-4e28-8ec8-0a4c0e47e6ff",
+    "data": [
+      {
+        "text": "When can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f3f257f-045d-4318-abc4-a3bcba79b322",
+    "data": [
+      {
+        "text": "When is the next time I can refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fc74ab8-585c-4b64-a6a4-704c481f903e",
+    "data": [
+      {
+        "text": "When can I pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fce726c4-2631-4d6a-ad01-65dc69119daf",
+    "data": [
+      {
+        "text": "How soon can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f7f0f3c-7457-4f70-8bf4-39844ed1f853",
+    "data": [
+      {
+        "text": "How often can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "823c03dd-15fb-4e49-8659-6463a7be93e7",
+    "data": [
+      {
+        "text": "When can I refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " from the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

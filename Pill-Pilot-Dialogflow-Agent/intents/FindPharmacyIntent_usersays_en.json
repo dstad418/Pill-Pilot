@@ -1,0 +1,658 @@
+[
+  {
+    "id": "c52b8ba6-826a-47fe-b527-670806b8a542",
+    "data": [
+      {
+        "text": "Can you provide me with the contact information for the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa788d17-657d-4a55-a5a7-3e2391d8e0fd",
+    "data": [
+      {
+        "text": "I\u0027d like to get the details of the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ba37224-356f-4f06-aec1-6c368ece87b0",
+    "data": [
+      {
+        "text": "Where do I go to pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "medications",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08dca693-f258-435c-b769-724d919fa535",
+    "data": [
+      {
+        "text": "Where is my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e7141e9-8031-4550-adaf-e3ce4b47e421",
+    "data": [
+      {
+        "text": "Could you give me the address and phone number of the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f23336d2-3764-4e34-910d-bdfa3e3af3a3",
+    "data": [
+      {
+        "text": "May I have the pharmacy\u0027s contact details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6d846e2-96b9-411b-829e-593997fcfe9a",
+    "data": [
+      {
+        "text": "Can you tell me where the pharmacy is located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0151c98f-aabb-4415-b993-8a7f7f7aadd1",
+    "data": [
+      {
+        "text": "I need to know the pharmacy\u0027s address and phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09f3e4ef-48ae-4d00-aa14-3a84b61e539e",
+    "data": [
+      {
+        "text": "Can you give me the name and address of the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "224400fd-45cf-422a-866d-030cb5eac3e9",
+    "data": [
+      {
+        "text": "I\u0027m looking for the pharmacy\u0027s information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3cc0275-34e8-4da2-a7da-b1f5710e705f",
+    "data": [
+      {
+        "text": "May I get the contact details for the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f746db-5956-47c8-8ba4-ea5aa13d1be1",
+    "data": [
+      {
+        "text": "Give me info about my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96f9a7b6-dab4-4485-abda-8e0a9405393b",
+    "data": [
+      {
+        "text": "When is my pharmacy open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2353675a-cc4e-46d6-b6c9-a7ff9261e26a",
+    "data": [
+      {
+        "text": "What\u0027s my pharmacy\u0027s number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f45e4b4-f18c-40a9-b3f4-099a3e835cb6",
+    "data": [
+      {
+        "text": "What\u0027s my pharmacy\u0027s phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a4887d0-fcb5-4f81-ab20-8203fcfd7f4d",
+    "data": [
+      {
+        "text": "How do I contact my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0442b6f9-b8d2-4547-aa0c-3cece28f32b5",
+    "data": [
+      {
+        "text": "Which direction to my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d2361dc-d986-401f-a39f-d43238406ed5",
+    "data": [
+      {
+        "text": "How far away is my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b25d28b3-2b49-402e-b7d1-50f9ac6b901b",
+    "data": [
+      {
+        "text": "Is my pharmacy closed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e41e2fea-7a2c-48ab-85fe-9c248cb89550",
+    "data": [
+      {
+        "text": "Is my pharmacy open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8ead081-2d56-474c-8e6b-82ca03ebb95c",
+    "data": [
+      {
+        "text": "Where do I pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "medications",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afcacfa4-b68e-4b3e-862f-fc5dae2d550b",
+    "data": [
+      {
+        "text": "Where do I pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescriptions",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27e27e96-7b89-4ba0-82b0-4b96f81ed23d",
+    "data": [
+      {
+        "text": "Can you provide me with the pharmacy\u0027s address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c99a493-a316-4400-b96e-de354850e395",
+    "data": [
+      {
+        "text": "Tell me more about my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60a43101-4cc5-43de-a5c0-113fcd322dfe",
+    "data": [
+      {
+        "text": "Give me pharmacy info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24cb2d0f-d94e-4686-9846-1a0276c982df",
+    "data": [
+      {
+        "text": "Tell me about the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76f0f378-80fd-4476-950e-12a1b0958df4",
+    "data": [
+      {
+        "text": "I\u0027d like to know the pharmacy\u0027s phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec35e20d-f9fe-4ca3-a905-0d2c9ba1466a",
+    "data": [
+      {
+        "text": "Can you give me the name and location of the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d67f530c-c1c3-4fe5-bedd-0410a552967a",
+    "data": [
+      {
+        "text": "I need the pharmacy\u0027s information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84db3e02-ef40-4550-8aae-ba171ab90a06",
+    "data": [
+      {
+        "text": "Can you share the details of the pharmacy with me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9108ade2-9de3-4102-9429-3e270267547c",
+    "data": [
+      {
+        "text": "Could you provide me with the name and contact information for the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7d9fbcd-5513-4abc-8baa-8e7d7f384511",
+    "data": [
+      {
+        "text": "Where is my nearest pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b0edc8e-dc48-44a3-9633-094cf8d72970",
+    "data": [
+      {
+        "text": "Can you give me the location of the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6969c49c-009b-4414-a2da-79a4165b0ef1",
+    "data": [
+      {
+        "text": "I\u0027d like to know where the pharmacy is situated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "909c82ed-4036-4682-857a-9d9c6eb3bb90",
+    "data": [
+      {
+        "text": "May I get the address and phone number of the pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1056ebbd-09b7-4b0f-a63b-27d21a7891d8",
+    "data": [
+      {
+        "text": "Give me pharmacy information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6acf5a26-35b6-4b8f-b953-a18f9d5a0aa2",
+    "data": [
+      {
+        "text": "Give me pharmacy details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9f89d41-2123-4044-84d3-fedd05bc8513",
+    "data": [
+      {
+        "text": "Give me information about my pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26542462-2898-4dda-8121-86b3322cc1f4",
+    "data": [
+      {
+        "text": "Where is my pharmacy in ",
+        "userDefined": false
+      },
+      {
+        "text": "{City}",
+        "meta": "@sys.geo-city-us",
+        "alias": "geo-city-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "372f0fd3-8f97-4d07-9dbe-ff2e3c8bb425",
+    "data": [
+      {
+        "text": "Where is the closest pharmacy in ",
+        "userDefined": false
+      },
+      {
+        "text": "{City}",
+        "meta": "@sys.geo-city-us",
+        "alias": "geo-city-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b00c90af-93ac-400a-8914-b12bee5d469a",
+    "data": [
+      {
+        "text": "I\u0027m looking for my pharmacy in ",
+        "userDefined": false
+      },
+      {
+        "text": "{City}",
+        "meta": "@sys.geo-city-us",
+        "alias": "geo-city-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f21bc6a6-8c55-458a-b77b-639f9161ded4",
+    "data": [
+      {
+        "text": "Can you give me details about my pharmacy in ",
+        "userDefined": false
+      },
+      {
+        "text": "{City}",
+        "meta": "@sys.geo-city-us",
+        "alias": "geo-city-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dacc528c-8ce8-4464-a7e6-e0e217f78bd7",
+    "data": [
+      {
+        "text": "What\u0027s the phone number for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{City}",
+        "meta": "@sys.geo-city-us",
+        "alias": "geo-city-us",
+        "userDefined": true
+      },
+      {
+        "text": " pharmacy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cca55c1e-fce0-4ebe-9760-6b6308c95e65",
+    "data": [
+      {
+        "text": "What\u0027s the address for my pharmacy in ",
+        "userDefined": false
+      },
+      {
+        "text": "{City}",
+        "meta": "@sys.geo-city-us",
+        "alias": "geo-city-us",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd992e3b-8dd0-44dd-9ed1-5c20ffcd5b22",
+    "data": [
+      {
+        "text": "Is my pharmacy open right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2f10105-8db7-4f9a-9193-5750e74b0620",
+    "data": [
+      {
+        "text": "Is my pharmacy closed right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

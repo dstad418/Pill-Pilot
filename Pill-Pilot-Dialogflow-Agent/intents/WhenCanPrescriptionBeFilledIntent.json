@@ -1,0 +1,95 @@
+{
+  "id": "39343641-e688-433e-815b-8f12f2690912",
+  "name": "WhenCanPrescriptionBeFilledIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9443901-b1cb-4e67-87ac-07faee1c60d7",
+          "name": "MedicationName",
+          "required": true,
+          "dataType": "@MedicationName",
+          "value": "$MedicationName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I can look into that, but i\u0027ll need the medication name first. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "I\u0027ll find that for you, but first I need the medication name. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what\u0027s the medication name?"
+            },
+            {
+              "lang": "en",
+              "value": "I\u0027ll need the medication name to find that information for you. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Of course, what is the medication name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2bc4f36f-7c2d-412e-8821-3ea771e79da3",
+          "name": "MedicationVernacular",
+          "required": false,
+          "dataType": "@MedicationVernacular",
+          "value": "$MedicationVernacular",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I can look into that, but i\u0027ll need the medication name first. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "I\u0027ll find that for you, but first I need the medication name. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what\u0027s the medication name?"
+            },
+            {
+              "lang": "en",
+              "value": "I\u0027ll need the medication name to find that information for you. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Of course, what is the medication name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

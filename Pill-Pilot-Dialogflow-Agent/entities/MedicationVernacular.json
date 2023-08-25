@@ -1,0 +1,9 @@
+{
+  "id": "9d90086f-ead3-4f18-834c-e957afebf95f",
+  "name": "MedicationVernacular",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

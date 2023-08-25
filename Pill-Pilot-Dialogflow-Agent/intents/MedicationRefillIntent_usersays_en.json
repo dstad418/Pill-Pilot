@@ -1,0 +1,934 @@
+[
+  {
+    "id": "afd21641-0793-48b7-8bd0-ae3f5189f9f5",
+    "data": [
+      {
+        "text": "I\u0027m in need of a ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1348a287-2b28-4de1-a91e-00b76fde3804",
+    "data": [
+      {
+        "text": "Can I request a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f6ac17d-c5be-4f09-9aef-dac71e9f2d33",
+    "data": [
+      {
+        "text": "I need to get a ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0b42c35-4d87-4c54-a528-ecffc69a88ed",
+    "data": [
+      {
+        "text": "Could you help me with a ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52ac81f3-7499-419d-bfa1-ed2803d9019d",
+    "data": [
+      {
+        "text": "Is it possible to have my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cf80be5-8d31-4699-af2d-eaf47a8d3255",
+    "data": [
+      {
+        "text": "I\u0027d like to get a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9e2d2fb-ee1e-4fd4-8362-c075db1bd96c",
+    "data": [
+      {
+        "text": "can I get a refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "389736f9-cf1b-490a-8c2f-79138f9aecfd",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " is running out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36883478-afe0-4932-906b-2c9a3693a3c2",
+    "data": [
+      {
+        "text": "May I request a ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewal for my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdd2cfb6-677c-4660-9cb7-a327eca65839",
+    "data": [
+      {
+        "text": "Can I have my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " filled again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a718750-c32d-4147-837d-1d0c13734a07",
+    "data": [
+      {
+        "text": "I need a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb2364a7-6cc2-4607-9dca-6bd8890492b5",
+    "data": [
+      {
+        "text": "I\u0027m running low on my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b012d37-8d7e-40c5-82c4-6b60824adab2",
+    "data": [
+      {
+        "text": "Could you help me with a ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e802cb39-f9ea-40b8-a278-f7475201a7c4",
+    "data": [
+      {
+        "text": "Is there a way to request a ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fba645b-5d61-47bf-a01c-2e304ba71c0b",
+    "data": [
+      {
+        "text": "I\u0027d like to request a ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewal for my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6276b205-57e6-4421-a7f2-94c11abc3f9a",
+    "data": [
+      {
+        "text": "Renew my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b99a3c5-805a-4c41-8e69-227301126dd6",
+    "data": [
+      {
+        "text": "Refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4106b6d8-094f-41a7-b2b0-e85dd363b2c7",
+    "data": [
+      {
+        "text": "Refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "meds",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1767896-dae3-44d6-ab3f-619432e8b907",
+    "data": [
+      {
+        "text": "Give me more ",
+        "userDefined": false
+      },
+      {
+        "text": "meds",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ac5a800-36ae-484d-8a4d-4002cf1f4c9f",
+    "data": [
+      {
+        "text": "Get me more ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deab928b-480e-4600-a320-f23fd68ae8d6",
+    "data": [
+      {
+        "text": "Can you arrange a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7d8fde7-bbb0-4337-a241-59e89d8d9b8c",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " is about to finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0757bf23-6c30-40f2-bd42-824385700fc0",
+    "data": [
+      {
+        "text": "I\u0027m almost out of ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "effbcd68-4734-4eb8-a399-75a38ca205e0",
+    "data": [
+      {
+        "text": "I\u0027m almost out of ",
+        "userDefined": false
+      },
+      {
+        "text": "meds",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27b84d0d-b207-46c3-a18d-cbb2c09d53ac",
+    "data": [
+      {
+        "text": "May I have my ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "076d2b74-ee95-404a-a9ba-030c07443032",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewal for my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fd69120-73a3-43ca-aed6-e2be43e252d0",
+    "data": [
+      {
+        "text": "I need to have my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " filled again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "992dd6bf-eaa5-4b04-af0c-8393a59d164e",
+    "data": [
+      {
+        "text": "Is it possible to request a ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3d80eff-9bc1-45f8-a842-5ed5deaeb58c",
+    "data": [
+      {
+        "text": "I\u0027m almost out of my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50f13268-c46c-428d-b1cf-d72307a39032",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b48097ab-f07a-437b-8433-08cbe0dbdc10",
+    "data": [
+      {
+        "text": "Is there a process to request a ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7905df5a-a8d3-46b8-ae8c-e2e41ff284cc",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "medication",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " supply is low",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a22ba683-41af-4234-9d05-d82d5d59f534",
+    "data": [
+      {
+        "text": "I\u0027m running low on my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e2aaffe-6812-45b9-8a67-7c0778c01e6f",
+    "data": [
+      {
+        "text": "I need to have my ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernaular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " filled again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4e8fdb7-6dae-4b58-afbe-edd471e47bff",
+    "data": [
+      {
+        "text": "I need my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56a27820-b1f9-4af3-90a8-f7fa29763b8a",
+    "data": [
+      {
+        "text": "Can I refill my  ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55703bf0-c78f-44ad-ad7c-91eec19583f7",
+    "data": [
+      {
+        "text": "Can you refill my  ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": "  for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71893a6d-074e-4b0d-a641-3c4c5de05629",
+    "data": [
+      {
+        "text": "Can I please refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa7ea0a1-8ed5-45ab-a1b9-269799b012d4",
+    "data": [
+      {
+        "text": "I need to get more ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "818e81d8-eea8-45fc-b8aa-e2544422f768",
+    "data": [
+      {
+        "text": "I need more  ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26db9836-96a3-46e3-bed0-06e8dce76c2e",
+    "data": [
+      {
+        "text": "I\u0027m running low on ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8ada1d-bc7f-4d8f-8b66-03b0a093a171",
+    "data": [
+      {
+        "text": "Can I get more  ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf2a1368-5925-4182-a5fc-d07686078ab8",
+    "data": [
+      {
+        "text": "I need to refill my  ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5eb11b5-9339-4531-abc2-cfa4157d0760",
+    "data": [
+      {
+        "text": "Can you help me refill my  ",
+        "userDefined": false
+      },
+      {
+        "text": "Adderall",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": "5e995777-9d20-4a92-a33b-f73fae3932b8",
+  "name": "MedicationRefillIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "MedicationRefillIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "49c8edd1-d893-4b61-91a4-8fd75274032a",
+          "name": "MedicationVernacular",
+          "required": false,
+          "dataType": "@MedicationVernacular",
+          "value": "$MedicationVernacular",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "61da221b-23a6-4d0a-b628-bc44257fb38e",
+          "name": "MedicationName",
+          "required": true,
+          "dataType": "@MedicationName",
+          "value": "$MedicationName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Got it, we\u0027ll need your medication name for this step. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Thanks, we can do that. But first, what\u0027s the name of your medication?"
+            },
+            {
+              "lang": "en",
+              "value": "Of course, what\u0027s the name of the medication you want to refill?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, what medication do you want to refill?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, i\u0027ve sent that information to your pharmacy. Your prescription for $MedicationName should be ready soon. Can I help with anything else?",
+            "Done! Your pharmacy should have your $MedicationName prescription ready for pick-up. What else can I assist you with?",
+            "Completed! Your $MedicationName request has been sent to your pharmacy, and should be ready for pick-up soon. Is there anything else I can help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ca967e89-3611-40f7-9a2b-a9a8d1a476fb",
+  "name": "PrescriptionLastFilledIntent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dc9404f2-455f-426e-afdb-55545f5910bd",
+          "name": "MedicationVernacular",
+          "required": false,
+          "dataType": "@MedicationVernacular",
+          "value": "$MedicationVernacular",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "febd88f9-e6f0-428b-aab1-67d5f9b65b55",
+          "name": "MedicationName",
+          "required": true,
+          "dataType": "@MedicationName",
+          "value": "$MedicationName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I can look into that, what was the name of the medication you wanted me to review?"
+            },
+            {
+              "lang": "en",
+              "value": "Of course, what is the medication name?"
+            },
+            {
+              "lang": "en",
+              "value": "Sure, but first i\u0027ll need the medication name, what is it?"
+            },
+            {
+              "lang": "en",
+              "value": "I can find that out for you, what medication name should I search for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "bdeb066c-2b8d-4fd1-9587-8e6ecc62ed78",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "medications",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " my doctor has prescribed to me currently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14132c94-90bc-4f4d-b4d3-d39b85262944",
+    "data": [
+      {
+        "text": "Could you furnish me with a list of my prescribed ",
+        "userDefined": false
+      },
+      {
+        "text": "drugs",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44e98c05-8230-4f4a-906c-787142230df5",
+    "data": [
+      {
+        "text": "I\u0027d like to have a record of my current ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medications",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": ". Is that possible?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59bbe98d-35f9-4d6d-86c9-6cf1d0c45fe2",
+    "data": [
+      {
+        "text": "Please share the names of the ",
+        "userDefined": false
+      },
+      {
+        "text": "medicines",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " I\u0027m currently prescribed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a411d04-4ac0-478c-94dc-94ef7806a39f",
+    "data": [
+      {
+        "text": "I need a list of all the ",
+        "userDefined": false
+      },
+      {
+        "text": "prescription",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " drugs I\u0027m currently on. How can I get that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c670fc0-ddd4-4bfb-b037-cf45ab7b32b0",
+    "data": [
+      {
+        "text": "Can you give me a rundown of the ",
+        "userDefined": false
+      },
+      {
+        "text": "medications",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " I\u0027m taking right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45eec48e-7058-491d-99b9-f6d2bc35cb98",
+    "data": [
+      {
+        "text": "I would like to know the ",
+        "userDefined": false
+      },
+      {
+        "text": "medications",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " I am currently prescribed. Can you help me with that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a9351d-7dfc-43c5-bb1e-c9e2ada872ec",
+    "data": [
+      {
+        "text": "Could you please provide me with a list of my current ",
+        "userDefined": false
+      },
+      {
+        "text": "prescriptions",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2512094-6451-4833-b4f4-b68efed2772f",
+    "data": [
+      {
+        "text": "What else am I prescribed other than ",
+        "userDefined": false
+      },
+      {
+        "text": "MedicationName",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4849c54-2fa6-435a-83be-781af8604d4b",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " am I taking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9c9d772-b6ac-4ba9-9c7c-e74d4179ec78",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " am I prescribed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07eeb014-8b43-446d-90e9-4fac6b80e3b4",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " did my doctor give me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6b60b10-efd2-4adf-94c8-fd3c54c39f4a",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " did my pharmacist give me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9237a148-6e17-436a-876b-b3f0e6f4f7bc",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " did my doctor prescribe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "902c4df1-c4ad-43fd-bdd4-82d7ce05c072",
+    "data": [
+      {
+        "text": "Can you tell me about my ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4851efcf-5f7b-46b7-b342-df15911eed29",
+    "data": [
+      {
+        "text": "What am I on",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff03f396-ab25-465f-aadb-a42db346f93f",
+    "data": [
+      {
+        "text": "What am I prescribed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eca4d322-1225-46f2-81e2-a2bc97dd254d",
+    "data": [
+      {
+        "text": "Which ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " have been prescribed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e6a34eb-0f25-49a2-abf5-76376b338892",
+    "data": [
+      {
+        "text": "Can you provide me a list of ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " that I am currently prescribed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4be0c0d6-6456-4556-b3eb-c61a78bbefc6",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " are on my prescription list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eba1cf07-d9d9-4517-8c07-8888e5639b85",
+    "data": [
+      {
+        "text": "What are my ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b371cd9-3356-431d-bf20-84af538387f4",
+    "data": [
+      {
+        "text": "I\u0027m curious about the ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " that have been prescribed to me. Can you provide details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56a81924-f479-48e1-922b-6888784919af",
+    "data": [
+      {
+        "text": "Can you inform me about the prescribed ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " in my name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "484811b4-b7c5-4212-9304-380c555cec86",
+    "data": [
+      {
+        "text": "I would like to know the names of the ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " that have been prescribed to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6102a25b-989f-4699-9315-923d5d91d339",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " are included in my current prescription",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5f1519b-4c0b-4e69-91bb-903b85b58af7",
+    "data": [
+      {
+        "text": "I need to know which ",
+        "userDefined": false
+      },
+      {
+        "text": "{MedicationVernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " I am currently prescribed. Can you assist me with that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

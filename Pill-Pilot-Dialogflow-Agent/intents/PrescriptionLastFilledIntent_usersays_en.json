@@ -1,0 +1,973 @@
+[
+  {
+    "id": "a2feec04-a874-48f1-ab61-f83784124985",
+    "data": [
+      {
+        "text": "When was the most recent refill of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e666dd98-857f-49a0-8d24-a54d9663567f",
+    "data": [
+      {
+        "text": "How long ago was my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "421469a9-45a8-4fc8-8727-a47e0b063e4c",
+    "data": [
+      {
+        "text": "When was the last time I got a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d876647c-c4cd-46b5-9058-030598316198",
+    "data": [
+      {
+        "text": "Can you provide the date of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12e1bb37-7b73-4317-b005-ea0be7c8fd7b",
+    "data": [
+      {
+        "text": "How recently did I have my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e73fe68a-4fdd-46b8-9599-d193bc50fa6d",
+    "data": [
+      {
+        "text": "When was the last time my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " was refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32e0a060-eed5-4381-8d01-6a6ca9fc933b",
+    "data": [
+      {
+        "text": "When was my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " was last replenished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9543273-71ca-4991-b97b-5be3c69b0078",
+    "data": [
+      {
+        "text": "When did I last get a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8a7b8a5-9031-4a5a-83d7-c5f3f217705a",
+    "data": [
+      {
+        "text": "When did I last receive a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bf5ba6f-8a61-43e6-9077-0f72fd6adcff",
+    "data": [
+      {
+        "text": "How long has it been since my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " was last refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afe93d27-601b-4419-87bc-aa7b0870d040",
+    "data": [
+      {
+        "text": "Can you remember the date of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "846c44d5-480c-42c0-b3b3-941b04a8529f",
+    "data": [
+      {
+        "text": "Can you tell me when my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " was last replenished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cec5a0ff-b2b9-4c23-888d-76734a2b74a6",
+    "data": [
+      {
+        "text": "When was the last time I had my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " filled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "778d2741-c483-4762-818d-1269dd627f8f",
+    "data": [
+      {
+        "text": "How recently did I pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6f5d01d-1bbd-4a7f-a2c1-dd0f326690ee",
+    "data": [
+      {
+        "text": "When did I last pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f96dd851-7189-4106-88cc-e29c61c6a7dd",
+    "data": [
+      {
+        "text": "When did I last refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00305dd5-9a3f-42e6-aa19-b6ab4b8db17e",
+    "data": [
+      {
+        "text": "Could you let me know the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4dbd8aed-a05b-45de-8949-ad55491c7bad",
+    "data": [
+      {
+        "text": "Can you give me the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85d6766e-97bc-4151-b089-9389eb734fc6",
+    "data": [
+      {
+        "text": "When did I last get a new supply of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23bc6436-6eba-49d4-8337-13c3a3a8d8a1",
+    "data": [
+      {
+        "text": "Can you remember the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c620b01-0c5d-4eb3-b9c9-0e687ea5a70a",
+    "data": [
+      {
+        "text": "Can you provide the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medication}",
+        "meta": "@MedicationName",
+        "alias": "MedicationName",
+        "userDefined": true
+      },
+      {
+        "text": " renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bbdf680-18b0-4e26-9c7b-f747469b41de",
+    "data": [
+      {
+        "text": "Can you remember the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2ce9f47-6e44-4ff2-98b0-2b810508fca2",
+    "data": [
+      {
+        "text": "When was the most recent refill of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae962573-1f9e-4fe9-bb17-d30a6a5c0862",
+    "data": [
+      {
+        "text": "How long ago was my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b0b8bf6-cfcf-405e-b5a6-a85b346bd717",
+    "data": [
+      {
+        "text": "Can you provide the date of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d439bd2-2c5e-4557-ae06-e2965c18a352",
+    "data": [
+      {
+        "text": "When was the last time I got a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a78b1683-45bc-44e9-a941-d7b6837e094b",
+    "data": [
+      {
+        "text": "How recently did I have my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5686af9-9d55-4318-9ae3-4bddaf1df73a",
+    "data": [
+      {
+        "text": "When was my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refilled last",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0602f74-c123-427d-a72c-332b19c6f455",
+    "data": [
+      {
+        "text": "When was the last time my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " was refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0c642d3-6132-4b64-9f89-fbdd72fedfcb",
+    "data": [
+      {
+        "text": "When was my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " was last replenished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd248b68-68bc-4969-8f1d-629c0b6cb6bd",
+    "data": [
+      {
+        "text": "When did I last get a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49f3a28f-4d6a-43f6-a636-08c0ceb3afe7",
+    "data": [
+      {
+        "text": "When did I last receive a refill for my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5f96b2f-606e-4b4e-a2a9-a83ed35ef227",
+    "data": [
+      {
+        "text": "How long has it been since my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " was last refilled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "363a5460-f95c-436b-9c1c-a920b1e96b39",
+    "data": [
+      {
+        "text": "Can you remember the date of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ab44f8e-8d75-41b0-8ca8-a5e5901b7855",
+    "data": [
+      {
+        "text": "Can you tell me when my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " was last replenished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4188be87-972b-4bdd-a069-62c59407d42f",
+    "data": [
+      {
+        "text": "When was the last time I had my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " filled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cdc623c-aeac-4bc4-b294-1544214e6a67",
+    "data": [
+      {
+        "text": "How recently did I pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ee137ee-8013-434b-b955-258bb199c6ec",
+    "data": [
+      {
+        "text": "When did I last pick up my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d143c42e-e894-40ac-ad49-1767aea044e9",
+    "data": [
+      {
+        "text": "When did I last refill my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2afa8772-9eaa-40bf-94ce-4d33fbd0c0c6",
+    "data": [
+      {
+        "text": "Could you let me know the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " pickup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2c8ba4b-17be-4efd-8fee-81420d350a27",
+    "data": [
+      {
+        "text": "Can you give me the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d80ee45e-38ca-4788-a789-868712ce3566",
+    "data": [
+      {
+        "text": "When did I last get a new supply of my ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6e5ede7-ef6d-498d-956d-323acaaa96d0",
+    "data": [
+      {
+        "text": "Can you remember the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " refill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6adebd80-74ff-4d9e-933a-b5d390070edb",
+    "data": [
+      {
+        "text": "Can you provide the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationvernacular}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9905ba4-5af5-4754-b769-7f9ef1acc7b9",
+    "data": [
+      {
+        "text": "Can you provide the date of my last ",
+        "userDefined": false
+      },
+      {
+        "text": "{medicationName}",
+        "meta": "@MedicationVernacular",
+        "alias": "MedicationVernacular",
+        "userDefined": true
+      },
+      {
+        "text": " renewal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]
